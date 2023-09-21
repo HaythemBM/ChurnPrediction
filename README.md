@@ -1,6 +1,6 @@
 # Churn Prediction Big Data Machine Learning Model
 
-o access the Databricks notebook associated with this project, please click [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6682082905920260/3596528276426006/4594393875302442/latest.html?fbclid=IwAR1Lf-On5P4yLZfPfTtlLaES2Zch72Dj5nUb_M6ZXOdGfR07-A8L5kwoiGQ).
+To access the Databricks notebook associated with this project, please click [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6682082905920260/3596528276426006/4594393875302442/latest.html?fbclid=IwAR1Lf-On5P4yLZfPfTtlLaES2Zch72Dj5nUb_M6ZXOdGfR07-A8L5kwoiGQ).
 
 This notebook provides detailed insights into the development and implementation of the churn prediction Big Data machine learning model using the CRISP-DM methodology within the Databricks environment.
 
