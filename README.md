@@ -40,4 +40,4 @@ In summary, this report offers an easily comprehensible overview of the developm
 
 ## Contact
 
-For any questions or inquiries, please contact our team at [haythem.benmessaoud@ensi-uma.tn](mailto:haythem.benmessaoud@ensi-uma.tn).
+For any questions or inquiries, please contact me at [haythem.benmessaoud@ensi-uma.tn](mailto:haythem.benmessaoud@ensi-uma.tn).
