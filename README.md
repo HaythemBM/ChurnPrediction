@@ -26,13 +26,11 @@ In this report, we present a churn prediction Big Data machine learning model de
 4. **Data Preparation**
    - Covers data cleaning, normalization, and feature engineering steps.
    
-5. **Machine Learning Algorithms**
+5. **Modeling**
    - Explains the machine learning algorithms utilized in the model.
-
-6. **Model Development**
    - Describes the steps involved in developing the churn prediction model.
    
-7. **Model Evaluation**
+6. **Model Evaluation**
    - Assesses model performance using various metrics, including accuracy, precision, recall, and F1-score.
    - Conducts a detailed analysis of the model's strengths, weaknesses, and areas for improvement.
 
