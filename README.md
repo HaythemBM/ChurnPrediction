@@ -37,3 +37,7 @@ In this report, we present a churn prediction Big Data machine learning model de
 ## Conclusion
 
 In summary, this report offers an easily comprehensible overview of the development and evaluation of a churn prediction Big Data machine learning model. It adheres to the CRISP-DM methodology and utilizes Databricks for implementation. The report underscores the importance of data preparation, feature engineering, and algorithm selection in creating an accurate and effective churn prediction model.
+
+## Contact
+
+For any questions or inquiries, please contact our team at [haythem.benmessaoud@ensi-uma.tn](mailto:haythem.benmessaoud@ensi-uma.tn).
