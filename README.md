@@ -12,6 +12,8 @@ In this report, we present a churn prediction Big Data machine learning model de
 
 ## Report Structure
 
+You can access the report by clicking [here](https://drive.google.com/file/d/1dlhtxCQis0jyWH3LlWhGGbzGIWxkVKcB/view?usp=sharing).
+
 1. **Introduction**
    - Explains the significance of churn prediction in business.
    - Describes the use of machine learning models, especially Big Data ML models.
